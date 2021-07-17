@@ -1,0 +1,16 @@
+{
+  "name": "socialshout",
+  "version": "1.0.0",
+  "description": "A social media app.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "nodemon ./app.js"
+  },
+  "author": "Sagar Kumar Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
